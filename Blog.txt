@@ -1,0 +1,7 @@
+Github is a web-based platform used for version control.
+Git simplifies the process of working with other people and makes it easy to collaborate on projects. 
+Team members can work on files and easily merge their changes in with the master branch of the project.
+You can also use it to showcase your codes and skills. 
+Your github account is very important in getting jobs too. 
+You can generally see which proggrammer is more serious by comparing their githubs. 
+Anyway, if you are a programmer, I think Github is one of the most important, if not the most important part of your life.
